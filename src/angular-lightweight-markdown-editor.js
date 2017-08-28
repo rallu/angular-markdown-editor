@@ -3,7 +3,6 @@
         "ngSanitize"
     ]).directive("markdownEditor", angularMarkdownEditor);
 
-    var textareaElement;
     var translationTexts = {
         "textPreview": "Preview",
         "textProvideText": "Please provide link text",
